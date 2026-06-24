@@ -1,0 +1,21 @@
+job_role,skills
+Data Scientist,Python SQL Machine_Learning Data_Analysis Statistics Deep_Learning TensorFlow Pandas NumPy Visualization
+Machine Learning Engineer,Python TensorFlow PyTorch Deep_Learning Algorithms Data_Structures Machine_Learning NumPy Scikit_Learn Model_Deployment
+Data Analyst,SQL Excel Python Data_Analysis Visualization Power_BI Tableau Statistics Reporting Pandas
+AI Engineer,Python Deep_Learning TensorFlow NLP Computer_Vision Machine_Learning Algorithms PyTorch OpenCV Transformers
+Backend Developer,Python Java SQL REST_API Django Flask Node_JS Databases Git Docker
+Frontend Developer,HTML CSS JavaScript React Vue Angular TypeScript UI_UX Figma Git
+Full Stack Developer,HTML CSS JavaScript React Node_JS Python SQL REST_API Git Docker
+DevOps Engineer,Docker Kubernetes AWS CI_CD Linux Git Automation Shell_Scripting Cloud Jenkins
+Cloud Architect,AWS Azure GCP Cloud Docker Kubernetes Networking Security Automation DevOps
+Cybersecurity Analyst,Networking Security Linux Ethical_Hacking Cryptography Firewalls Python Risk_Assessment SIEM Forensics
+Software Engineer,Python Java C++ Data_Structures Algorithms OOP Git Problem_Solving System_Design SQL
+Mobile App Developer,Java Kotlin Swift React_Native Flutter Android iOS Git REST_API Firebase
+Database Administrator,SQL MySQL PostgreSQL MongoDB Oracle Database_Design Backup Performance_Tuning NoSQL Linux
+NLP Engineer,Python NLP Transformers BERT Deep_Learning TensorFlow Text_Processing Linguistics SpaCy Hugging_Face
+Computer Vision Engineer,Python OpenCV Deep_Learning TensorFlow PyTorch Image_Processing CNN Object_Detection NumPy YOLO
+Business Intelligence Developer,SQL Power_BI Tableau Excel Data_Analysis Reporting ETL Data_Warehousing Python Visualization
+Robotics Engineer,Python C++ ROS Algorithms Sensors Embedded_Systems Control_Systems Electronics Automation MATLAB
+IoT Developer,Python C Embedded_Systems MQTT Sensors Arduino Raspberry_Pi Networking Cloud Automation
+Blockchain Developer,Solidity Python JavaScript Cryptography Smart_Contracts Ethereum Distributed_Systems Security Web3 Git
+Game Developer,C++ Unity Python OpenGL Game_Design Algorithms Graphics Physics_Engine JavaScript Unreal
